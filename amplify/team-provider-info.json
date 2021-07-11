@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nationalparkbrowser-dev-215531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::568694399023:role/amplify-nationalparkbrowser-dev-215531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::568694399023:role/amplify-nationalparkbrowser-dev-215531-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-nationalparkbrowser-dev-215531-deployment",
+      "UnauthRoleName": "amplify-nationalparkbrowser-dev-215531-unauthRole",
+      "StackName": "amplify-nationalparkbrowser-dev-215531",
+      "StackId": "arn:aws:cloudformation:us-west-2:568694399023:stack/amplify-nationalparkbrowser-dev-215531/2d163560-e1c1-11eb-80ab-061a0feb21f5",
+      "AmplifyAppId": "d3ubluzelanlc6"
+    },
+    "categories": {
+      "auth": {
+        "nationalparkbrowser8359201d": {}
+      }
+    }
+  }
+}
